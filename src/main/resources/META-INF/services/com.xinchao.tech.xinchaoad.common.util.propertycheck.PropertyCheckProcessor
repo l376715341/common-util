@@ -1,0 +1,6 @@
+com.xinchao.tech.xinchaoad.common.util.propertycheck.impl.NullableCheckProcessor
+com.xinchao.tech.xinchaoad.common.util.propertycheck.impl.MinLengthCheckProcessor
+com.xinchao.tech.xinchaoad.common.util.propertycheck.impl.MaxLengthCheckProcessor
+com.xinchao.tech.xinchaoad.common.util.propertycheck.impl.RangeCheckProcessor
+com.xinchao.tech.xinchaoad.common.util.propertycheck.impl.MailCheckProcessor
+com.xinchao.tech.xinchaoad.common.util.propertycheck.impl.PhoneCheckProcessor
